@@ -1,5 +1,5 @@
 {
-    "active": true,
+    "active": false,
     "link": "https://github.com/alsheikhaminulislam/vencord-nude-filter-discord",
     "defaultView": {
         "title": "Vencord Enhancements",
@@ -12,3 +12,4 @@
     },
     "position": "bottom"
 }
+
