@@ -1,0 +1,10 @@
+{
+  "class_names": [
+    "nsfw",
+    "safe"
+  ],
+  "class_indices": {
+    "nsfw": 0,
+    "safe": 1
+  }
+}

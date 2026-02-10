@@ -1,0 +1,9 @@
+{
+  "model_path": "tfjs_model/model.json",
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "preprocessing": "rescale 1/255"
+}
