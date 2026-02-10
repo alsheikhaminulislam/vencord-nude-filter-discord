@@ -1,8 +1,10 @@
 {
     "active": true,
-    "title": "Vencord Plugins Store",
-    "text": "Get the best custom plugins for your Discord experience.",
     "image": "https://alsheikhaminulislam.github.io/vencord-nude-filter-discord/ads.webp",
     "link": "https://github.com/alsheikhaminulislam/vencord-nude-filter-discord",
+    "meta": {
+        "author": "VAC INC",
+        "text": "High-quality Vencord enhancements. Safe, fast, and feature-rich."
+    },
     "position": "bottom"
 }
