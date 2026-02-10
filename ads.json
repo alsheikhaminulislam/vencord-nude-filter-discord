@@ -1,10 +1,13 @@
 {
     "active": true,
-    "image": "https://alsheikhaminulislam.github.io/vencord-nude-filter-discord/ads.webp",
     "link": "https://github.com/alsheikhaminulislam/vencord-nude-filter-discord",
-    "meta": {
-        "author": "AROX INC",
-        "text": "High-quality Vencord enhancements. Safe, fast, and feature-rich."
+    "defaultView": {
+        "title": "Vencord Enhancements",
+        "description": "Safe, fast, and feature-rich. Visit our verified website for more details."
+    },
+    "infoView": {
+        "title": "AROX INC",
+        "description": "This ad is sponsored by AROX INC to support development. It serves to inform users about safe plugin alternatives."
     },
     "position": "bottom"
 }
